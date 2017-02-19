@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="black_cheked_ellipse1.png">pictures/black_cheked_ellipse1.png</file>
+        <file alias="black1.png">pictures/black1.png</file>
+        <file alias="cheked1.png">pictures/cheked1.png</file>
+        <file>pictures/cursor_dice1.png</file>
+        <file alias="emptyboard1.png">pictures/emptyboard1.png</file>
+        <file alias="emptyboard2.png">pictures/emptyboard2.png</file>
+        <file alias="five.png">pictures/five.png</file>
+        <file alias="four.png">pictures/four.png</file>
+        <file alias="one.png">pictures/one.png</file>
+        <file alias="one_two_cursor.png">pictures/one_two_cursor.png</file>
+        <file alias="six.png">pictures/six.png</file>
+        <file alias="three.png">pictures/three.png</file>
+        <file alias="two.png">pictures/two.png</file>
+        <file alias="white_cheked_ellipse1.png">pictures/white_cheked_ellipse1.png</file>
+        <file alias="white1.png">pictures/white1.png</file>
+        <file alias="cursor_one_cube_3232.png">pictures/cursor_one_cube_3232.png</file>
+        <file alias="cursor_two_cubes_3232.png">pictures/cursor_two_cubes_3232.png</file>
+        <file alias="fiveGrey.png">pictures/fiveGrey.png</file>
+        <file alias="fourGrey.png">pictures/fourGrey.png</file>
+        <file alias="oneGrey.png">pictures/oneGrey.png</file>
+        <file alias="sixGrey.png">pictures/sixGrey.png</file>
+        <file alias="threeGrey.png">pictures/threeGrey.png</file>
+        <file alias="twoGrey.png">pictures/twoGrey.png</file>
+        <file alias="triangleBottomTop1.png">pictures/triangleBottomTop1.png</file>
+        <file alias="triangleTopBottom1.png">pictures/triangleTopBottom1.png</file>
+        <file alias="new_game.png">pictures/new_game.png</file>
+        <file alias="white_black1.png">pictures/white_black1.png</file>
+        <file alias="exit.png">pictures/exit.png</file>
+        <file alias="exit1.png">pictures/exit1.png</file>
+        <file alias="black_display1.png">pictures/black_display1.png</file>
+        <file alias="white_display1.png">pictures/white_display1.png</file>
+        <file alias="crownVictory.png">pictures/crownVictory.png</file>
+        <file alias="faceBoard1.png">pictures/faceBoard1.png</file>
+        <file alias="null157_317.png">pictures/null157_317.png</file>
+        <file alias="null364_317.png">pictures/null364_317.png</file>
+    </qresource>
+</RCC>

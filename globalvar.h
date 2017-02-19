@@ -1,0 +1,9 @@
+#ifndef GLOBALVAR
+#define GLOBALVAR
+
+
+//Глобальные переменные
+enum GameTypeEnum{GAMEWITHCOMPUTER, GAMEWITHPERSON, GAMEWITHPERSONNETWORK};
+
+#endif // GLOBALVAR
+
