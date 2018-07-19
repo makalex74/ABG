@@ -1,6 +1,6 @@
 Aleksey's BackGammon (variant "long") 
-Interface language - only russian
 Programming language: C++ Qt 5.6.2
+Interface language - only russian
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
